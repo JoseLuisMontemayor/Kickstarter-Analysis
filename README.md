@@ -11,4 +11,4 @@ Luoise had interest especially in the US and GB markets regarding:
 
 As an example we can se in the next images the outcomesof all projects based on their launch date:
 ![](Documents/Data%Analytics%Bootcamp/Module1/Outcomes%Based%on%Launch%Date)
-
+asdf
