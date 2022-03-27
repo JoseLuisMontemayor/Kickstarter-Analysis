@@ -6,3 +6,9 @@ With this analysis we are being able to see the relationship of several countrie
 Luoise had interest especially in the US and GB markets regarding:
 - Parent Categories
 - SubCategories 
+- Outcomes
+- Launch Dates
+
+As an example we can se in the next images the outcomesof all projects based on their launch date:
+![](Documents/Data Analytics Bootcamp/Module1/Outcomes Based on Launch Date)
+
