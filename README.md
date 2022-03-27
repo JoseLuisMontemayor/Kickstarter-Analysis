@@ -9,8 +9,8 @@ Luoise had interest especially in the US and GB markets regarding:
 - Outcomes
 - Launch Dates
 
-As an example we can se in the next images the outcomesof all projects based on their launch date:
-![](Documents/Data%Analytics%Bootcamp/Module1/Outcomes%Based%on%Launch%Date)
+As an example we can se in the next images the outcomes of all projects based on their launch date:
 ![](https://github.com/JoseLuisMontemayor/Kickstarter-Analysis/blob/main/Outcomes%20Based%20on%20Launch%20Date.png)
 
-asdf
+As well, in this image we can see the Parent Category Outcomes we have related to the diverse activities:
+
