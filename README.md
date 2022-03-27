@@ -18,3 +18,5 @@ As well, in this image we can see the Parent Category Outcomes we have related t
 Behind the request and the Excel, we could notice that Louise was inclined towards Plays and Theather and their outcomes in the main countries as mentioned. 
 
 There would be a recommendation to look more closely to the US market, since the final outcomes for the succesfull and failed rates have a reasonable trend that could be un the interest if analyzing the data. 
+
+Also it would be a good idea to look closely to the launch dates, since according to the chart above, the best months to launch projects would be during the first five months of the year. 
