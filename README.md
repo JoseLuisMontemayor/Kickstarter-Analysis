@@ -4,9 +4,10 @@ Helping Louise - Performing analysis on Kickstarter Data to uncover trends
 ## Overview of The Project
 With the given data with specific dates, budgets and outcomes from diffent projects, we are being able to summarize and visualize the data for Louise to make decisions regarding her interests. You will be able to see results on specific categorizations with tables, charts, trends, and their visualization. 
 
-You will be able to envision the relationship between the interests between countries, their successful rate, outcomes and more results making reference between the categories and subcategories, such as technology, games, music, theather, plays and many more.  
+**What type of projects are there?** 
+You will be able to envision the relationship between the interests between countries, their successful rate, outcomes and more results making reference between the categories and subcategories, such as technology, games, music, theather, plays and many more. It is an interesting analysis is you´re looking to explore diverse projects with different ramifications and see their relationship regarding several factors to take into account. 
 
-It is an interesting analysis is you´re looking to explore diverse projects and see their relationship regarding several factors to take into account. 
+## Analysis and Challenges
 
 Luoise had interest especially in the US and GB markets regarding:
 - Parent Categories
