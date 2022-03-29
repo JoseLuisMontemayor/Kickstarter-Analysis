@@ -28,6 +28,9 @@ In the next line chart we can see the relationship between the goals and their o
 As mentioned before, Louise had an interest on Launch dates on specific subcategories, such as Theather. We may see that the best month to have a successful Theather launch would be on may, regarding the next 3 months would have a decline, they could be still be considered as strong months. Also, its is needed to take into account that the trend for failed launches shows a similar pace but in a lower scale. When it comes into making decisions this needs to be taken into account. 
 ![](https://github.com/JoseLuisMontemayor/Kickstarter-Analysis/blob/main/Theather_Outcomes_vs_Launch.png)
 
+###Challenges and Difficulties Encountered
+To start making an analysis with all the data, it is important to understand and think what do we need as outcomes. As the challenge went by, I could understand the certain data that was shown in different format (Such as dates), with the given formulas. It was a challenge to see the details of charts and their manipulation, since in several cases the information wasn´t visualized as the way expected. It was a good way to understand the features of the specific tools used since you had to explore it´s options to maintain an order and a good visual. Poeple may encounter more problems in the manipulation of charts, since they have a quite good amount of attributes. 
+
 
 Behind the request and the Excel, we could notice that Louise was inclined towards Plays and Theather and their outcomes in the main countries as mentioned. 
 
