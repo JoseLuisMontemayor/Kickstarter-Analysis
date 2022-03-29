@@ -31,7 +31,7 @@ As mentioned before, Louise had an interest on Launch dates on specific subcateg
 ### Challenges and Difficulties Encountered
 To start making an analysis with all the data, it is important to understand and think what do we need as outcomes. As the challenge went by, I could understand the certain data that was shown in different format (Such as dates), with the given formulas. It was a challenge to see the details of charts and their manipulation, since in several cases the information wasn´t visualized as the way expected. It was a good way to understand the features of the specific tools used since you had to explore it´s options to maintain an order and a good visual. Poeple may encounter more problems in the manipulation of charts, since they have a quite good amount of attributes. 
 
-
+# Results
 Behind the request and the Excel, we could notice that Louise was inclined towards Plays and Theather and their outcomes in the main countries as mentioned. 
 
 There would be a recommendation to look more closely to the US market, since the final outcomes for the succesfull and failed rates have a reasonable trend that could be un the interest if analyzing the data. 
