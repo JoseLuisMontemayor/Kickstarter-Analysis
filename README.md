@@ -26,6 +26,9 @@ In the next line chart we can see the relationship between the goals and their o
 ![](https://github.com/JoseLuisMontemayor/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
 
 
+![]
+
+
 Behind the request and the Excel, we could notice that Louise was inclined towards Plays and Theather and their outcomes in the main countries as mentioned. 
 
 There would be a recommendation to look more closely to the US market, since the final outcomes for the succesfull and failed rates have a reasonable trend that could be un the interest if analyzing the data. 
